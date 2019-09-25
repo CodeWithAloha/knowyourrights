@@ -57,7 +57,7 @@ felony in any State or Federal Court
 
 ### State and County Offices
 Source: 
-* [https://law.justia.com/codes/hawaii/2014/title-38/chapter-831/section-831-2](HRS § 831-2 Uniform Act on State of Convicted People)
+* [HRS § 831-2 Uniform Act on State of Convicted People](https://law.justia.com/codes/hawaii/2014/title-38/chapter-831/section-831-2)
 
 Felons can hold office after final discharge.  Having a misdemeanor conviction is not a bar to holding these public offices.
 
