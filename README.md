@@ -1,7 +1,8 @@
 # Know Your Rights
 
 ## Rights regarding disclosure of criminal records
-Sources: https://www.simplicityhr.com/employment-law/criminal-background-checks/
+Sources: 
+* [https://www.simplicityhr.com/employment-law/criminal-background-checks/](https://www.simplicityhr.com/employment-law/criminal-background-checks/)
 
 Hawaii criminal background check law (aka Ban the Box legislation) is expansive:
 * It is illegal for employers to ask job applicants if they have been convicted of a crime (HRS §378-2.5) 
@@ -12,8 +13,9 @@ Hawaii criminal background check law (aka Ban the Box legislation) is expansive:
 * Job offers may be withdrawn only if the conviction “bears a rational relationship to the duties and responsibilities of the position”. There is a high standard for proving “rational relationship”
 
 ## Rights regarding voting
-Sources: https://elections.hawaii.gov/voters/i-am-a/voters-with-a-felony-conviction/
-	       https://acluhi.org/2012/09/27/voting-in-hawaii-with-a-criminal-conviction/
+Sources: 
+* [https://elections.hawaii.gov/voters/i-am-a/voters-with-a-felony-conviction/](https://elections.hawaii.gov/voters/i-am-a/voters-with-a-felony-conviction/)
+* [https://acluhi.org/2012/09/27/voting-in-hawaii-with-a-criminal-conviction/](https://acluhi.org/2012/09/27/voting-in-hawaii-with-a-criminal-conviction/)
 
 If you have a felony conviction, you may not vote while incarcerated.  After you are released, you may vote. You may vote if you have a misdemeanor conviction.  If you are incarcerated due to a misdemeanor conviction, you must use an absentee ballot.
 
@@ -45,7 +47,8 @@ A law enforcement agency acting within the scope of their duties.
 
 ## Rights regarding jury service
 
-Sources: https://www.courts.state.hi.us/general_information/jury/jury_service_faqs
+Sources: 
+* [https://www.courts.state.hi.us/general_information/jury/jury_service_faqs](https://www.courts.state.hi.us/general_information/jury/jury_service_faqs)
 
 You may serve on a jury if you were convicted of a misdemeanor.  You may not serve if you were convicted of a 
 felony in any State or Federal Court
